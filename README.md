@@ -28,7 +28,7 @@ This project uses:
 - Flash Your Code to the Photon
 
 # Hookup Diagramm
-![Hookup_Diagramm](https://github.com/bbz-hft-software-engineering/AlarmSystem_JNI/docs/AlarmSystem_Steckplatine.png)
+![My Image](docs/AlarmSystem_Steckplatine.png)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/bbz-hft-software-engineering/AlarmSystem_JNI.svg?style=for-the-badge
