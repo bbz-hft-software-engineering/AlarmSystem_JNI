@@ -27,6 +27,9 @@ This project uses:
 - download the file `Alarmsytem.c` (Software)
 - Flash Your Code to the Photon
 
+# Hookup Diagramm
+![Hookup_Diagramm](https://github.com/bbz-hft-software-engineering/AlarmSystem_JNI/docs/AlarmSystem_Steckplatine.png)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/bbz-hft-software-engineering/AlarmSystem_JNI.svg?style=for-the-badge
 [contributors-url]: https://github.com/bbz-hft-software-engineering/AlarmSystem_JNI/graphs/contributors
