@@ -36,7 +36,7 @@ https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experimen
 https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experiment-guide/experiment-2-with-the-touch-of-a-buttonSoftwareentwicklung
 
 ## Lautsprecher
-https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experiment-guide/experiment-5- music-time
+https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experiment-guide/experiment-5-music-time
 
 ## Display
 https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experiment-guide/experiment-11-oled-apps---weather--clock
