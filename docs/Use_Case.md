@@ -1,15 +1,15 @@
-Use Case: Alarm System 
+# Use Case: Alarm System 
 
-Actors:
+## Actors
 - User
 - Alarm System
 
-Preconditions:
+## Preconditions
 - The Alarm System is installed and powered on.
 - User has access to the Alarm System controls.
 - Door sensor is installed and functioning.
 
-Main Flow:
+## Main Flow
 1. User approaches the Alarm System control panel.
 2. User presses the red button to activate the Alarm System.
 3. Alarm System transitions from Inaktiv state to Idle state.
@@ -23,5 +23,5 @@ Main Flow:
 11. Alarm System activates the alarm, triggering a Alarm on the System and activating the Siren.
 12. Use case ends.
 
-Postconditions:
+## Postconditions
 - The Alarm System is in the Inaktiv state or Alarm state based on the outcome of the user's interaction.
