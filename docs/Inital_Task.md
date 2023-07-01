@@ -55,7 +55,7 @@ https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-photon-experimen
 Folgende Artefakte sind abzugeben und werden bewertet:
 | Artefakt | Beschreibung | Abgabedatum |
 |----------|--------------|-------------|
-| Source-Code | Source-Code des Projekt | 30.06.2023 |
-| Design Artefakte | Sequenzdiagramm, Erklärung Idee, | 30.06.2023 |
-| Use. Case | Anforderungen, nicht funktionale Anforderungen, Ablauf use-case, Fehlerfall | 30.06.2023 |
-| Test-Protokoll | Testkonzept, sowie Protokoll der durchgeführten Tests | 30.06.2023 |
+| Source-Code | Source-Code des Projekt | ~~30.06.2023~~ 02.07.2023 |
+| Design Artefakte | Sequenzdiagramm, Erklärung Idee, | ~~30.06.2023~~ 02.07.2023 |
+| Use. Case | Anforderungen, nicht funktionale Anforderungen, Ablauf use-case, Fehlerfall | ~~30.06.2023~~ 02.07.2023 |
+| Test-Protokoll | Testkonzept, sowie Protokoll der durchgeführten Tests | ~~30.06.2023~~ 02.07.2023 |
