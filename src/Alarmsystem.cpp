@@ -283,10 +283,11 @@ void loop() {
                 Note_Time = millis();
             }
 
-            /* Transition to SM_INACTIV state when the red button is pressed */
-            if(ButtonState_Red) {   
+            /* Used for Debugging: Transition to SM_INACTIV state when the red button is pressed */
+            /* if(ButtonState_Red) {   
                 SM_State = SM_INACTIV;
             }
+            */
     break;
     }
 
