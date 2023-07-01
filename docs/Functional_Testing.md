@@ -1,10 +1,10 @@
 # Test Protocol
 
-Test Date: 01.07.2023
-Tester : Jan Nägeli 
-Type of Test: Manual Functional Testing
+- Test Date: 01.07.2023
+- Tester : Jan Nägeli 
+- Type of Test: Manual Functional Testing
 
-##Test Cases for the Alarm System:
+## Test Cases for the Alarm System:
 
 | # | Test Case | Description | Procedure | Expected Result | Result |
 |---|-----------|-------------|-----------|-----------------|--------|
@@ -23,3 +23,6 @@ Type of Test: Manual Functional Testing
 | 13 | Display Sleep | The Display turns on if any Input is made | Any Input | The Display turns on | PASS |
 | 14 | Display Sleep | The System transition from the Active to the Code entry State even if the Display is off | Open the Door in the Active State while Display is off | The System transitions to the Code Entry Stage | PASS |
 | 15 | Alarm Reset | Verify that the alarm can be manually reset by authorized personnel. | Perform a System Reset | The alarm is disabled, and the system returns to the inactive state. | PASS |
+
+## Summary
+The purpose of this test protocol was to verify the functionality and performance of the Alarm System. The system was subjected to a series of tests to ensure its compliance with the specified requirements and to identify any defects or issues that may affect its operation. All Tests where succesfully completed. The Functional Test where succesfully performed without any discrepancy.
