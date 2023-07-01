@@ -30,6 +30,8 @@ This project uses:
 # Hookup Diagramm
 ![My Image](docs/AlarmSystem_Steckplatine.png)
 
+# Additional Resources
+See `docs` for Additional Information 
 
 [contributors-shield]: https://img.shields.io/github/contributors/bbz-hft-software-engineering/AlarmSystem_JNI.svg?style=for-the-badge
 [contributors-url]: https://github.com/bbz-hft-software-engineering/AlarmSystem_JNI/graphs/contributors
